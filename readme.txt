@@ -1,4 +1,4 @@
-# AC GAN
+#AC GAN
 
 Welcome to My Project!
 
